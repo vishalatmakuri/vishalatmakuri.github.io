@@ -9,6 +9,7 @@ body{
   line-height: 1.5;
   position: relative;
   cursor: auto;
+  font-family: "Source Sans Pro",sans-serif;
 }
 p{
   margin-bottom: 1%;
